@@ -73,6 +73,38 @@
 
 **Do We Really Need to Collect Millions of Faces for Effective Face Recognition?** Iacopo Masi, Anh Tuan Tran, Tal Hassner, Jatuporn Toy Leksut, Gerard Medioni1 [[code]](https://github.com/iacopomasi/face_specific_augm)
 
+# NIPS 2016
+
+**Using Fast Weights to Attend to the Recent Past**  [[paper]](https://arxiv.org/abs/1610.06258) [[code]](https://github.com/ajarai/fast-weights)
+
+**Learning to learn by gradient descent by gradient descent**  [[paper]](https://arxiv.org/abs/1606.04474) [[code]](https://github.com/deepmind/learning-to-learn)
+
+**R-FCN: Object Detection via Region-based Fully Convolutional Networks**  [[paper]](https://arxiv.org/abs/1605.06409) [[code]](https://github.com/Orpine/py-R-FCN)
+
+**Fast and Provably Good Seedings for k-Means**  [[paper]](https://las.inf.ethz.ch/files/bachem16fast.pdf) [[code]](https://github.com/obachem/kmc2)
+
+**Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences**  [[paper]](https://arxiv.org/abs/1610.09513) [[code]](https://github.com/dannyneil/public_plstm)
+
+**Generative Adversarial Imitation Learning**  [[paper]](https://arxiv.org/abs/1606.03476) [[code]](https://github.com/openai/imitation)
+
+**Adversarial Multiclass Classification: A Risk Minimization Perspective**  [[paper]](https://www.cs.uic.edu/~rfathony/pdf/fathony2016adversarial.pdf) [[code]](https://github.com/rizalzaf/adversarial-multiclass)
+
+**Unsupervised Learning for Physical Interaction through Video Prediction**  [[paper]](https://arxiv.org/abs/1605.07157) [[code]](https://github.com/tensorflow/models/tree/master/video_prediction)
+
+**Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks**  [[paper]](https://arxiv.org/abs/1602.07868) [[code]](https://github.com/openai/weightnorm)
+
+**Sequential Neural Models with Stochastic Layers**  [[paper]](https://arxiv.org/pdf/1605.07571.pdf) [[code]](https://github.com/marcofraccaro/srnn)
+
+**Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering**  [[paper]](https://arxiv.org/abs/1606.09375) [[code]](https://github.com/mdeff/cnn_graph)
+
+**Interpretable Distribution Features with Maximum Testing Power**  [[paper]](https://papers.nips.cc/paper/6148-interpretable-distribution-features-with-maximum-testing-power.pdf) [[code]](https://github.com/wittawatj/interpretable-test/)
+
+**PVANet: Lightweight Deep Neural Networks for Real-time Object Detection**  [[paper]](https://arxiv.org/abs/1611.08588) [[code]](https://github.com/sanghoon/pva-faster-rcnn)
+
+**Convolutional Neural Fabrics for Architecture Learning**  [[paper]](https://arxiv.org/pdf/1606.02492.pdf) [[code]](https://github.com/shreyassaxena/convolutional-neural-fabrics)
+
+**Binarized Neural Networks** [[paper]](https://arxiv.org/abs/1602.02830) [[Code]](https://github.com/MatthieuCourbariaux/BinaryNet)
+
 # What I have to read & check!
 
 **Identity Mappings in Deep Residual Networks** Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun [[code]](https://github.com/KaimingHe/resnet-1k-layers)
@@ -82,3 +114,7 @@
 **Do We Really Need to Collect Millions of Faces for Effective Face Recognition?** Iacopo Masi, Anh Tuan Tran, Tal Hassner, Jatuporn Toy Leksut, Gerard Medioni1 [[code]](https://github.com/iacopomasi/face_specific_augm)
 
 **A Unified Multi-scale Deep Convolutional Neural Networkfor Fast Object Detection** Zhaowei Cai, Quanfu Fan, Rogerio Feris, Nuno Vasconcelos [[code]](https://github.com/zhaoweicai/mscnn)
+
+**Using Fast Weights to Attend to the Recent Past**  [[paper]](https://arxiv.org/abs/1610.06258) [[code]](https://github.com/ajarai/fast-weights)
+
+**Learning to learn by gradient descent by gradient descent**  [[paper]](https://arxiv.org/abs/1606.04474) [[code]](https://github.com/deepmind/learning-to-learn)
